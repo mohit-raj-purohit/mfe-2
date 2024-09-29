@@ -4,7 +4,7 @@ import React from "react";
 const App = ({ count = 0 }) => {
   return (
     <div>
-      <h1>App 3</h1>
+      <h1>App 2</h1>
       <p>Shared data: {count}</p>
     </div>
   );
