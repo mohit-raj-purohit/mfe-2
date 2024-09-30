@@ -5,7 +5,7 @@ const App = ({ count = 0 }) => {
   return (
     <div>
       <h1>App 2</h1>
-      <p>Counter data: {count}</p>
+      <p>Counter datas: {count}</p>
     </div>
   );
 };
